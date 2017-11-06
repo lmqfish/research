@@ -1,11 +1,20 @@
 Kitaev
 1. cyrstal field splitting. when eg lower than t2g?
+Tetrahedral, eg closer
+An electron in the dyz orbital can approach the ligand to within a distance of a/2, where a is the cube edge length. However, an electron in dz2 only approaches the ligands at a distance of a/2(20.5), a distance 1.414 times as long as the distance in the dyz case. This means that the dz2 orbital is lower in energy than the dyz orbital, exactly the z2 gy yz opposite case as in octahedral coordination.
+https://en.wikipedia.org/wiki/Crystal_field_theory
+http://www.mpilkington.com/Lecture_9.pdf
+
 2. summarize eletronic correlation, spin-orbit coupling, hund's interaction
-	3d, 4d, 5d: U decreases from 4ev to 2ev to 1ev. lambda increases from 2meV(or 20meV) to 500meV
+https://infoscience.epfl.ch/record/226175/files/EPFL_TH7547.pdf
+http://inis.jinr.ru/sl/vol2/Physics/_%D0%A4%D0%B8%D0%B7%D0%B8%D0%BA%D0%B0_%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%BE%D0%B3%D0%BE_%D1%82%D0%B5%D0%BB%D0%B0/Irkhin&Irkhin,_Electronic_Structure,Correlation_Effects&Phys.Properties_of_d-&f-Transition_Metals.pdf
+	3d, 4d, 5d: U decreases from 4ev to 2ev to 1ev. lambda increases from 20meV to 100meV to 500meV
 	U1=U2+2Jh
+	https://arxiv.org/pdf/0807.0498.pdf see Hamiltonian
+	https://journals.aps.org/prb/pdf/10.1103/PhysRevB.56.12909
 3. derive the SOC for t2g
 4. read yuriy paper, derive why j=1/2 cancel out
-
+5. screening
 
 Spinwave
 1. read spinwave paper
