@@ -1,0 +1,30 @@
+Kitaev
+1. cyrstal field splitting. when eg lower than t2g?
+2. summarize eletronic correlation, spin-orbit coupling, hund's interaction
+	3d, 4d, 5d: U decreases from 4ev to 2ev to 1ev. lambda increases from 2meV(or 20meV) to 500meV
+	U1=U2+2Jh
+3. derive the SOC for t2g
+4. read yuriy paper, derive why j=1/2 cancel out
+
+
+Spinwave
+1. read spinwave paper
+2. rewrite spinwave appendix
+3. explain why direction matters
+
+
+Topology
+1. what is Z2 vortex
+2. why z2 vortex is different than others
+
+
+Model
+1. organize codes
+2. get w and intensity for d=3k
+
+
+Talk
+1. summarize kitaev interaction in one slide
+2. prepare for Tuesday talk
+3. print results in nice figures
+
